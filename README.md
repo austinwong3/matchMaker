@@ -4,7 +4,7 @@ MatchMaker is meant for the greater good. Based on the Stable Marriage Problem, 
 
 Run in command line:
 
-javac MatchMaker.java
+javac MatchMaker.java\n
 java MatchMaker
 
 
